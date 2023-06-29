@@ -65,13 +65,8 @@ target/
 .DS_Store
 
 # Docker
-Dockerfile
 *.dockerignore
-docker-compose.yml
-docker-compose.dev.yml
 **/__pycache__/
 **/*.py[cod]
 **/*$py.class
 
-# MLflow
-mlruns/
